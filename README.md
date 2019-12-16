@@ -65,7 +65,7 @@ _________________________________
 	exiting
 
 
-GUI VERSION
+**GUI VERSION**
 **************
 File included: money.cpp, money.h, makefile, main.cpp, currency.txt
 **************
